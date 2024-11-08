@@ -1,0 +1,33 @@
+# 🍕 Pizza API - Le Projet qui Fait Saliver 🍕
+
+Hey ! Bienvenue dans ton super projet d'API pour gérer des pizzas. Ici, on fait les choses simplement, mais avec style. On a un setup qui roule tout seul, donc let's get started !
+
+## 🚀 Lancer l'API en 2 Temps 3 Mouvements
+
+1. **Ouvre ton terminal préféré** 🖥️
+2. **Tape** `.\start.ps1` et laisse la magie opérer 🎩✨
+
+C'est tout ! Pas besoin de se prendre la tête. Une fois que tout est en place, t'as juste à te poser et à profiter de tes pizzas. Enfin... presque. 😉
+
+## 🍕 Modifier l'API (Parce que t'es un dev qui aime tout personnaliser)
+
+Envie d'ajouter une nouvelle feature ou de modifier une route ? Tu trouveras tout ce dont tu as besoin dans le fichier `index.js`. C'est là que toute l'action se passe !
+
+### Quelques idées pour t'amuser :
+- **Ajouter une nouvelle pizza** 🧀🍅
+- **Changer les prix** 💸
+- **Ajouter des routes pour gérer les commandes** 🛵
+
+Bref, fais-toi plaisir et rends cette API encore plus géniale !
+
+## 💾 Besoin de jeter un œil à la base de données ?
+
+Pas de souci, on a pensé à tout. Juste ouvre ton navigateur et va sur `http://localhost:8080`. Tu y trouveras Adminer, ton meilleur pote pour gérer la base de données. Connecte-toi avec les infos suivantes :
+- **Serveur** : `db`
+- **Utilisateur** : `user`
+- **Mot de passe** : `password`
+- **Base de données** : `pizza_db`
+
+## 🎉 C'est tout, amuse-toi bien !
+
+T'as tout ce qu'il te faut pour conquérir le monde des pizzas (ou au moins des API). Si t'as des questions, tu sais où me trouver... enfin, pas vraiment, mais tu vois l'idée. 😉
